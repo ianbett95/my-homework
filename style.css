@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    color:beige
+}
+.title{ 
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+
+#logo{
+    height: 80px;
+    width:80px;
+    border-radius: 45px;
+}
+ #headtag{
+display: flex;
+background-color: crimson;
+font-style: italic;
+text-decoration: none;
+
+}
+.list{
+    display: flex;
+    justify-content: space-around
+    ;
+}
+.life{ 
+    color: brown;
+    
+}
+body{ 
+    background-image:url(img/psychodelic.jpg)!important;
+    @font-face {
+        font-family: specialElite;
+        src: url(img/specialElite-Regular.ttff);
+
+    }
+
+}
+.education{
+    color: brown;
+}
+#contacts{
+    display: flex;
+    justify-content: center;
+    color: tomato;
+    
+}
+.final{
+    justify-content: end;
+    display: flex;
+
+}
+#theleg{
+    color: tomato;
+}
+
+    
