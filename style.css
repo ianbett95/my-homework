@@ -41,6 +41,9 @@ body{
 .education{
     color: brown;
 }
+#goals{
+    color: brown;
+}
 #contacts{
     display: flex;
     justify-content: center;
