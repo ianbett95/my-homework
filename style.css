@@ -1,3 +1,11 @@
+@font-face {
+    font-family:specialElite ;
+    src: url(img/SpecialElite-Regular.ttf);
+}
+*{font-family: specialElite;
+
+}
+
 body{
     background-color: black;
     color:beige
@@ -22,22 +30,18 @@ text-decoration: none;
 }
 .list{
     display: flex;
-    justify-content: space-around
-    ;
+    text-align: end;
+    justify-content: end;
+    ju
 }
 .life{ 
     color: brown;
     
 }
-body{ 
-    background-image:url(img/psychodelic.jpg)!important;
-    @font-face {
-        font-family: specialElite;
-        src: url(img/specialElite-Regular.ttff);
 
-    }
 
-}
+
+
 .education{
     color: brown;
 }
